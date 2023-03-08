@@ -1,0 +1,6 @@
+1. working directory - stagging area->local repo-> remote repo test
+2 test -project ------->git add------->git commit->git push
+
+4 tracked 
+5 untracked
+ new
