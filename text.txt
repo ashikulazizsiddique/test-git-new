@@ -3,4 +3,11 @@
 
 4 tracked 
 5 untracked
- new
+ 
+ git status 
+ git add . -sob gula changes tracked hoye jabe. 
+ git
+
+ make changes-> git add->git commit-> git push
+
+ git pull
